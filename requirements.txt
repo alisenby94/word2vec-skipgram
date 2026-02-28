@@ -1,0 +1,7 @@
+datasets
+torch
+numpy
+scikit-learn
+matplotlib
+ipykernel
+tqdm

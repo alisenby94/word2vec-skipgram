@@ -1,0 +1,15 @@
+# Project specific ignores
+.venv
+.vscode/
+.env
+glove*
+archive/
+report/build/
+report/sections/
+report/*.tex
+
+# General python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
